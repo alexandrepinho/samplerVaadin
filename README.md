@@ -1,4 +1,4 @@
 samplerVaadin
 =============
 
-Add-ons Vaadin
+Add-ons Vaadin com NetBeans e Maven
