@@ -1,0 +1,9 @@
+
+<module>
+
+
+
+    <inherits name="com.vaadin.terminal.gwt.DefaultWidgetSet" />
+
+    <inherits name="org.vaadin.teemu.switchui.widgetset.SwitchComponentWidgetset" />
+</module>

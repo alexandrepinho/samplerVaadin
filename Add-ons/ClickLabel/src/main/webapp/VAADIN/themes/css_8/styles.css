@@ -1,0 +1,95 @@
+/* 
+    Document   : styles
+    Created on : 11/06/2012, 08:16:20
+    Author     : ivanildofilho
+    Description:
+        Purpose of the stylesheet follows.
+*/
+@import "../org.vaadin.addons.mspapant.clickableLabel.widgetset.public.clickableLabel/styles.css";
+
+.v-clickableLabel {
+	cursor: move !important;
+}
+/*input.codigoProduto ,
+input[type=text].codigoProduto {
+  font-size: 30px;
+  height: 35px;
+  padding: 2px;
+    text-align: center;
+  background: antiquewhite url(img/bg.png) repeat-x;
+
+}
+input.descricaoProduto ,
+input[type=text].descricaoProduto{
+  font-size: 30px;
+  height: 35px;
+  padding: 2px;
+    text-align: center;
+  background: antiquewhite url(img/bg.png) repeat-x;
+
+}
+input.quantidade ,
+input[type=text].quantidade{
+  font-size: 30px;
+  height: 35px;
+  padding: 2px;
+    text-align: center;
+  background: antiquewhite url(img/bg.png) repeat-x;
+
+}
+.v-label-soma{
+  margin: 0;
+  padding: 8px 0 4px;
+  font-size: 35px;
+  line-height: normal;
+  letter-spacing: -0.03em;
+  font-weight: normal;
+  text-shadow: 0 1px 1px red;
+    background: yellowgreen;
+  color: brown;
+
+}
+.v-label-moeda{
+  margin: 0;
+  padding: 8px 0 4px;
+  font-size: 35px;
+  line-height: normal;
+  letter-spacing: -0.03em;
+  font-weight: normal;
+  text-shadow: 0 1px 1px red;
+    background: yellowgreen;
+  color: brown;
+
+}
+.v-label{
+
+  font-size: 15px;
+}
+.v-panel .v-panel-caption {
+ background: #80ff80;  pale green 
+}
+
+.v-panel .v-panel-content {
+  background: bisque;
+}
+
+.v-panel .v-textfield  {
+  background: aliceblue;  pale blue 
+}
+.v-panel .v-label {
+  background: aqua;  pale blue 
+  font-size: 15px;
+}
+.v-panel .v-button {
+  background: pink;
+
+}
+.v-absolutelayout-border {
+  border: 1px solid aquamarine;
+}
+.v-tabsheet-content {
+  background: darkturquoise;
+}
+.v-tabsheet-tabs {
+  background: yellow;
+}*/

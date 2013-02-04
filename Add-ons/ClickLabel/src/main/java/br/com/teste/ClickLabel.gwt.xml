@@ -1,0 +1,8 @@
+<module>
+	
+
+
+    <inherits name="org.vaadin.addons.mspapant.clickableLabel.widgetset.ClickableLabelComponentWidgetset" />
+
+    <inherits name="com.vaadin.terminal.gwt.DefaultWidgetSet" />
+</module>
